@@ -1,0 +1,9 @@
+name: GMDIRicompense
+version: '${project.version}'
+main: me.gabryosas.gmdiricompense.GMDIRicompense
+api-version: '1.16'
+authors: [GabryOsas]
+commands:
+  ricompense:
+    aliases:
+      - ricompensa
