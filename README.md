@@ -1,5 +1,6 @@
 # GMDIRicompense
 [Plugin creato da GMDIDevelopment](https://t.me/GMDIdevelopment)
+
 Questo plugin implementa i rispettivi comandi:
 - riscatta (ID)
 - reload
